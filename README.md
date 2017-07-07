@@ -2,6 +2,7 @@
 CJExtensionColor is an extension of UIColor for swift,Including the development of the commonly used color processing, there are four kinds of extension: RGB, hex string into color, random color and gradient.Hope to be able to communicate with everybody together learning, make progress together.
 - QQ group：262480034
 - blog about implementation: <http://blog.csdn.net/H_Qiao/article/details/74573825>
+- rendering:<br>![ss](https://github.com/CoderJon/CJExtensionColor-swift/blob/master/CJExtensionColor/color.gif)
 
 ### Usage
 
